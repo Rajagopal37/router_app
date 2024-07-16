@@ -5,7 +5,7 @@ function DataScience() {
 
     <div className='d-flex justify-content-center my-3'>
         <Card style={{ width: '18rem' , margin:'10px'}}>
-            <Card.Img variant="top" src="/ds1.jpg" />
+            <Card.Img variant="top" src="public/ds1.jpg" />
             <Card.Body>
               <Card.Title>Data Science</Card.Title>
               <Card.Text>
@@ -15,7 +15,7 @@ function DataScience() {
           </Card>
 
         <Card style={{ width: '18rem' , margin:'10px'}}>
-            <Card.Img variant="top" src="/ds2.jpg" />
+            <Card.Img variant="top" src="public/ds2.jpg" />
             <Card.Body>
               <Card.Title>Data Science</Card.Title>
               <Card.Text>

@@ -2,7 +2,6 @@ import React from 'react'
 import FSD from '../FSD/FSD'
 import Cyber from '../Cyber/Cyber'
 import DataScience from '../Datasciece/DataScience'
-import './All.css'
 
 export const All = () => {
   return (

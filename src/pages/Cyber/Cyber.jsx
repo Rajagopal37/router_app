@@ -1,5 +1,6 @@
 import Card from 'react-bootstrap/Card';
-import cy1 from '../../assets/cys1.jpg'
+import cy1 from '../../assets/cys1.jpg';
+import cy2 from '../../assets/cys2.jpg';
 
 function Cyber() {
   return (
@@ -17,7 +18,7 @@ function Cyber() {
         </Card>
         
         <Card style={{ width: '18rem', margin:'10px' }}>
-        <Card.Img variant="top" src="public/cys2.jpg" />
+        <Card.Img variant="top" src={cy2} />
         <Card.Body>
             <Card.Title>Cyber Security</Card.Title>
             <Card.Text>
